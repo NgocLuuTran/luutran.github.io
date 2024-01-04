@@ -54,7 +54,7 @@ a:hover {
   width: 90vw;
   max-width: 1200px;
   margin: 69px auto 0 auto ;
-  background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg?_gl=1*74lv3k*_ga*NDkyMTM0MDU5NC4xNjk1MDA2NDEx*_ga_3LRZM6TM9L*MTcwNDI2NDk0Ni4zMi4xLjE3MDQyNzAxOTAuMjQuMC4w");
+  background-image: url("../images/img-mission-background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -113,7 +113,7 @@ h4 {
   width: 90vw;
   min-width: 600px;
   max-width: 1200px;
-  background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg?_gl=1*d4ysgd*_ga*NDkyMTM0MDU5NC4xNjk1MDA2NDEx*_ga_3LRZM6TM9L*MTcwNDI2NDk0Ni4zMi4xLjE3MDQyNzAxOTAuMjQuMC4w");
+  background-image: url("../images/img-locations-background.jpg");
   background-repeat: no-repeat;
   background-position: bottom right ;
   background-size: cover;
@@ -135,7 +135,7 @@ h4 {
 }
 .location-info {
   margin: 15px;
-  padding: 20px 10px;
+  padding: 20px;
   height: 100%;
   max-width: 300px;
   background-color: rgba(0,0,0,.9);

@@ -438,7 +438,7 @@ footer p{
   margin-top: 16px;
 }
 
-@media only screen and (max-width 420px) {
+@media only screen and (max-width: 640px) {
   h1 {
     font-size: 4rem;
     padding-left: 10px;
